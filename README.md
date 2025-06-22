@@ -1,4 +1,3 @@
-
 # MERN Stack Chat App 💬
 
 A real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io.
@@ -40,13 +39,13 @@ Features user authentication, group and private messaging, notifications, and a 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/mern-chat-app.git
-   cd mern-chat-app
+   git clone https://github.com/KimsokhomZz/MERN-Stack-Chat-App.git
+   cd "chat app"
    ```
 2. **Install backend dependencies:**
 
    ```sh
-   cd backend
+   // Stay in the "Chat App" folder then run:
    npm install
    ```
 3. **Install frontend dependencies:**
@@ -66,7 +65,8 @@ Features user authentication, group and private messaging, notifications, and a 
 5. **Run the backend server:**
 
    ```sh
-   npm run server
+   // Stay in the "Chat App" folder then run:
+   npm start
    ```
 
    (or `npm start` if that's your script)
@@ -79,25 +79,6 @@ Features user authentication, group and private messaging, notifications, and a 
 7. **Visit the app:**
 
    - Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
-## Folder Structure
-
-```
-mern-chat-app/
-  backend/
-    models/
-    routes/
-    controllers/
-    ...
-  frontend/
-    src/
-      components/
-      pages/
-      context/
-      ...
-```
 
 ---
 
